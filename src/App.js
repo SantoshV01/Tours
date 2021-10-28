@@ -8,7 +8,7 @@ function App() {
       <main>
         <div className="Title">
           <h2>
-            Best Tours 🚀🚀🚀
+            Best Tours
             <div className="Underline"></div>
           </h2>
         </div>
